@@ -101,10 +101,10 @@ When text hugs the edges, readers feel the anxiety of walking alongside a cliff.
 If you’re doing LaTeX shenanigans, it’s up to you to set boundaries. Try roleplaying as a UX designer: print your document and **see if you can hold it comfortably without your thumbs covering any text**, and check if there’s **room to jot notes around the edges** with a marker.
 That’s probably what those still-printing-in-2025 recruiters are doing anyway, so you’d better accommodate them.
 
-![ALTTEXT](assets/images/Margin_DO.png)
+![Positive example of large enough margins to allow physical interaction](assets/images/Margin_DO.png)
 *Leave enough room around for a human to interact with your CV*
 
-![ALTTEXT](assets/images/Margin_DONT.png)
+![Negative example of extremely narrow margins](assets/images/Margin_DONT.png)
 *Respect margins, lest you fall off the edge of the world*
 
 ## Divide responsibly
