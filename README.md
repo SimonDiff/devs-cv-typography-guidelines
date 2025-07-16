@@ -112,10 +112,25 @@ That’s probably what those still-printing-in-2025 recruiters are doing anyway,
 
 Even the most minimalist applicant must decide **how to separate sections**. Properly styled titles help (more on that later), but outside text I count the following three available tools: **spacing**, **dividers**, and **background shading**.
 I'm telling you now: **you can only have two, and spacing is non-negotiable**.
+
+![Example of spacing](assets/images/Spacing_Spacing.png)
+*Separation by spacing is—dare I say—very demure*
+
+![Example of divider](assets/images/Spacing_Divider.png)
+*Dividers are basic, which can be both effective and harsh*
+
+![Example of background shading](assets/images/Spacing_BG.png)
+*Colored-in boxes require a great attention to contrast, harmony, and spacing again*
+
 ### Spacing plus one
 To borrow a design cliché: _less is more_. "Less" prevents the claustrophobia we're trying to avoid with the mandatory spacing, and it also means "less stuff to maintain". Manually adjusting a bunch of dividers every time you tweak a bullet point stops being fun extremely fast. A row of underscores just replaces that issue with an unsightly hack.
 
-So: spacing, plus maybe one between dividers and background shading. Just remember that most divider styles recall the last century in a non-flattering way, and background shading introduces a plethora of contrast, harmony, and spacing issues that no one wants to get into.
+So: spacing, plus maybe one between dividers and background shading.
+Just remember that most **dividers recall the last century** in a non-flattering way, and **background shading introduces a plethora of** contrast, harmony, and spacing **issues** that no one wants to get into.
+
+![Negative example of separators usage](assets/images/Spacing_DONT.png)
+*Don't use all separation devices simultaneously*
+
 ## No orphans nor widows
 ### Explaining an unfortunate metaphor
 I’m skipping witty remarks about familial deaths here.
