@@ -3,19 +3,26 @@ A practical and opinionated guide to CV typography and layout for developers, he
 
 ---
 Dear job-hunting developers and other non-designers,
-Unbelievable as it may sound, out of 100 CVs you submit, 2 or 3 of them slip past an ATS and land in front of a pair of real, human eyes - if only for a fraction of a minute. That's when your carefully crafted professional profile must measure against the outdated multimodal biological intelligence running most HR brains.
-And that worries me, because I have seen many of your LaTeX creations and template customizations. While they might have given you the necessary push over Greenhouse and Workday fences, their lack of presentational elegance could now be your undoing.
+Unbelievable as it may sound, out of 100 CVs you submit, 2 or 3 of them slip past an ATS and land in front of a pair of real, human eyes - if only for a fraction of a minute. That's when **your carefully crafted professional profile must measure against** the outdated multimodal biological intelligence running most **HR brains**.
+And that worries me, because **I have seen many of your LaTeX creations and template customizations**. While they might have given you the necessary push over Greenhouse and Workday fences, **their lack of presentational elegance could now be your undoing**.
+
+![The last thing your Awesome-CV clone sees before a recruiter shift-deletes it after the 3-red-letters gimmick and cringe quote ruin the vibe.](assets/images/MEME_01.png)
+*Starting from a template doesn't necessarily save you from disaster*
+
 ### Vibing right in the age of vibe-recruiting
 Remember in-person interviews? Content has always been king, but like it or not, your _style_ (or _vibe_) was a factor.
-I’m not talking about grooming, clothing, and cologne. Some of my best friends are back-end developers. What I’m talking about is your _voice_ (your tone, cadence, volume), which conveyed your thoughts more clearly and made your answers more memorable. That’s what we can call _vibes_.
+I’m not talking about grooming, clothing, and cologne. Some of my best friends are back-end developers, so I know the bar's height. What I’m talking about is your _voice_ (your tone, cadence, volume), which conveyed your thoughts more clearly and made your answers more memorable.
 
-Making it all the way to an interview is a bit too ambitious for the modern job market. Vibes are checked way earlier, by a professional category who I will not humorously generalize here (lest I ruin my chances of networking via this content). Let’s just say that if you want to motivate someone who’s got a thousand suitors for a single (real or fake) vacancy to actually read your CV rather than just look at it, you need to stand out.
+Making it all the way to an interview feels a bit ambitious in today’s job market. The vibes are checked much earlier—and often with a kind of passive detachment. Speculating further about what recruiters actually do at this stage might get us in trouble.
+Let’s just say that **if you want to motivate someone** who’s got a thousand suitors for a single (real or fake) vacancy **to actually read your CV** rather than just look at it, **the bare minimum is to make it readable**.
+
+![Look at that subtle off-white coloring. The tasteful spacing of it. Oh my god... it even has consistent margins!](assets/images/MEME_02.png)
+*Recruiters screening your CV will appreciate your efforts*
 ### Sharing hard rules and opinions
-That’s what I’ll do, if you’ll let me: I’ll give you some basic typographic and design tips that will make your résumé shine amongst the sea of samey Awesome-CV forks inundating the recruiter’s inbox (I promise a dedicated rant on the Awesome-CV template hyperinflation at a later date). No one expects you to start pumping out breathtaking custom designs, but elevating a serviceable template to typographic decency is a desirable, achievable feat for anyone.
+That’s what I’ll do, if you’ll let me: **give you some basic typographic and design tips that will make your résumé shine** amongst the sea of samey *Awesome-CV* forks inundating the recruiter’s inbox (I promise a dedicated rant on the *Awesome-CV* template hyperinflation at a later date). No one expects you to start pumping out breathtaking custom designs, but elevating a serviceable template to typographic decency is a desirable, achievable feat for anyone.
 
-Many of these tips are hard rules you should follow. While I'm not the ultimate authority on the topic—typography hasn’t been my hyperfixation since my London College of Printing days—ignoring most of what I’m about to tell you requires either a typographic superstar who knows exactly what they’re doing, or a berserker. I’ll assume you’re neither.
-Some tips will fall under “just my opinions”: I'll politely welcome and smugly dismiss differing points of view.
-(Really just kidding: I’m out here for constructive confrontations. Please share with me any take you have!)
+Many of these tips are **hard rules you should follow**. While I'm not the ultimate authority on the topic—typography hasn’t been my hyperfixation since my London College of Printing days—ignoring most of what I’m about to tell you requires either a typographic superstar who knows exactly what they’re doing, or a berserker. I’ll assume you’re neither.
+Some tips will fall under “just my opinions”: I'll politely welcome and smugly dismiss differing points of view. (Really just kidding: **I’m out here for constructive confrontations. Please share with me any take you have!**)
 
 ---
 # Jump in the line, or: Alignment basics
@@ -23,44 +30,88 @@ It’s hard to pick which principle deserves the number one spot, so I’ll star
 ## Do not justify any text. Ever.
 Like everything else I’ll beg you to avoid, justification has its place. This one’s is in long-form print. Combined with hyphenation, it can save a bit of paper across an entire book, create tidy blocky full-width paragraphs, or draw straight lateral borders clearly signaling a columnar layout.
 You’re not writing descriptive essays for your work experiences, nor newspaper op-eds for your professional summary—and if you are, you definitely shouldn’t.
-On your 1–2 page CV, justified alignment (especially without manual hyphenation and with large fonts) forces your editor to wildly vary letter-spacing across lines, disrupting the natural rhythm we follow to scan text. You don’t want to throw your recruiter off their groove in the one brief dance they’ve granted you.
+In our case, justified alignment (especially without manual hyphenation and with large fonts) forces your editor to **wildly vary letter-spacing across lines, disrupting the natural rhythm we follow to scan text**. You don’t want to throw your recruiter off their groove in the one brief dance they’ve granted you.
+
+![Negative example of justified text](assets/images/Justification_DONT.png)
+*Justification creates disproportionate, inconsistent spacing between words*
 
 On that matter:
 ## Leave hyphens to the typesetters
-Again, we’re not trying to cut down from 400 to 396 pages. We’re trying to present crisp, discoverable keywords and nuggets of information. Sawing them in half and scattering their remains across the opposite sides of the page does not serve the purpose.
+**Turn hyphenation off**. Again, we’re not trying to cut down from 400 to 396 pages. We’re trying to present **crisp, discoverable keywords** and nuggets of information. Sawing them in half and scattering their remains across the opposite sides of the page does not serve the purpose.
 If you’ve worked as a _Data Analyst_ and the line doesn’t have room for the last three letters, you might actually stop a recruiter in their tracks to *some* effect. In every other case, two distant halves of a keyword won't make a whole one to a skimming eye.
+
+![Negative example of hyphenated text](assets/images/Hyphen_DONT.png)
+*Hyphenation will, at best, turn javascript into java*
 
 But most importantly:
 ## Left-align everything
 Reading (especially a recruiter’s gist-reading) is a dance. It’s not just about rhythm, but take that away and onlookers will squint their eyes or look away.
 I know what you're thinking: no harm done in centering your name—and your contact info, while you're at it. But that's just your gateway drug to centering section titles and who-knows-what-else. I wish I could trust you with this, but I’ve seen good friends center-align entire paragraphs, and I don’t want your family to go through that.
 
-Your reader’s eyes move like a typewriter: at the end of each line, they want to snap reliably to the same x-coordinate for the next. Otherwise, you’ll mess up their groove.
+**Your reader’s eyes move like a typewriter**: at the end of each line, they want to snap reliably to the same x-coordinate for the next. Otherwise, you’ll mess up their groove.
+
+![Negative example of center-aligned text](assets/images/Center_DONT.png)
+*Centered text creates an erratic path for your eyes to figure out*
+
+![Positive example of left-aligned text](assets/images/Left_Align_DO.png)
+*Left-alignment is the natural course for western readers*
 
 I'm sure you’re having none of these issues while reading your own centered content because you know it intimately, you’ve written it, you’ve read it 100 times. Here’s a shocker: you’re not really reading. Your brain is just filling in the gaps while your eyes bounce around (which is why proofreaders and writers are separate entities).
 
 This x-axis principle is good for almost everything, and that’s why you should:
 ## Same stuff, same x
-Here's the exception: your contact info. Those are short strings that would leave a whole lot of emptiness if stacked vertically. You definitely _can_ horizontally align them in a two-column layout, but you’re otherwise excused.
+This generalization of the left-alignment principle starts with an exception: **your contact info**. Those are short strings that would leave a whole lot of emptiness if stacked vertically. You definitely _can_ horizontally align them in a two-column layout, but you’re otherwise excused.
 
-For everything else: if it’s on the same hierarchy level, it should sit at the same distance from the left margin. The one remaining troublemaker will be your employment dates, which I’m guessing you’ve placed on the same line as your job title or employer. Depending on your layout, they’ll often look cleaner either left-aligned as far right as they can go or properly separated using a right-aligned tab stop.
+![Acceptable example of center-aligned contact info](assets/images/Contact_Center_ACCEPTABLE.png)
+*If you can stop there, your contact info could be centered*
+
+![Better example of left-aligned contact info](assets/images/Contact_Left_DO.png)
+*You can still align everything left, if willing to play around with your layout*
+
+For everything else: **if it’s on the same hierarchy level, it should sit at the same distance from the left margin**.
+The one remaining troublemaker will be your **employment dates**, which I’m guessing you’ve placed on the same line as your job title or employer. Depending on your layout, they’ll often look cleaner either left-aligned as far right as they can go or properly separated using a right-aligned tab stop (or `Shift+Tab`).
+
+
+![Positive example of right-aligned employment dates](assets/images/Date_Right_Tab_Stop_DO.png)
+*Shift+Tab will push any remaining text to the right. Dates won't be perfectly aligned, but "good enough" can be acceptable*
+
+![Negative example of in-line employment dates](assets/images/Date_DONT.png)
+*Don't differentiate dates with styling only. They will be hard to pin down*
+
+![Positive example of employment dates on a new line](assets/images/Date_New_Line_DO.png)
+*If vertical real estate is not scarce, you can reserve an entire line for employment dates*
+
+## But I can read my CV just fine!
+I'm sure **you’re having none of these issues** while reading your own centered, justified, hyphenated, Comic Sans, Liquid Glass content.
+Wanna know why? Because you know it intimately, you’ve written it, you’ve read it 100 times. Here’s a shocker: **you’re not really reading anymore**. Your brain is just filling in the gaps while your eyes bounce around (which is why proofreaders and writers are separate entities).
+And there's so much more you might be missing.
 
 ---
 # To fear and to embrace the void (all the way to the dreaded second page)
-You’ve heard designers talk about negative or white space. Sure, you can have too much of it, but a lack of it is what truly hurts.
+Negative space cuts both ways. Too little, and everything collapses in on itself; too much, and everything disperses.
+You’ve already spent hours **wrangling ChatGPT to cram your entire career onto a single page**. And now here I come, asking you to make even more room for some emptiness?
+Fear not: **you won't have to sacrifice any more content**.
 ## Don't mess with a document's margin
 You’re likely starting your CV from a template in Word, Docs, Pages, or Canva. Notice how every text element keeps a respectful distance from the page’s edges (with only occasional decorations daring to venture further).
 ### If you gaze long enough into an abyss...
-It looks like wasted real estate. Stare at it long enough, and it will call to you. The voices of a thousand influencers warning that a two-page CV is toilet paper will echo through that white space as you debate which bullet point to cut. You’ll feel tempted to nudge your name higher or let your main text box claim some lateral territory. Just **don't**.
+It looks like wasted real estate. Stare at it long enough, and it will call to you. The voices of a thousand influencers warning that **a two-page CV is toilet paper** will echo through that white space as you debate which bullet point to cut. You’ll feel tempted to nudge your name higher or let your main text box claim some lateral territory. Just **don't**.
 ### Mind the gap
-When text hugs the edges, readers feel the anxiety of walking alongside a cliff. How close is too close? If you’re asking, you’re already planning to get too close. Avoid the debate and let the default margins stand for now.
+When text hugs the edges, readers feel the anxiety of walking alongside a cliff. How close is too close? If you’re asking, you’re already planning to get too close. Avoid the debate and **let the default margins stand for now**.
 
-If you’re doing LaTeX shenanigans, it’s up to you to set boundaries. Try roleplaying as a UX designer: print your document and see if you can hold it comfortably without your thumbs covering any text, and check if there’s room to jot notes around the edges with a marker. That’s probably what those still-printing-docs-in-2025 recruiters are doing, so you’d better accommodate them.
-## Choose one or (if you really must, but you really don't) two types of separators
-You’ve got sections: Education, Work Experience, maybe a Professional Summary, Skills, Languages, and Personal Interests. Someone should probably stop you before you list your middle school grades and favorite pets, but I promised not to meddle with content affairs.
+If you’re doing LaTeX shenanigans, it’s up to you to set boundaries. Try roleplaying as a UX designer: print your document and **see if you can hold it comfortably without your thumbs covering any text**, and check if there’s **room to jot notes around the edges** with a marker.
+That’s probably what those still-printing-in-2025 recruiters are doing anyway, so you’d better accommodate them.
 
-Even the most minimalist applicant must decide how to separate sections. Properly styled titles help (more on that later), but outside text I count the following three available tools: spacing, dividers, and background shading.
-I'm telling you now: you can only have two, and spacing is non-negotiable.
+![ALTTEXT](assets/images/Margin_DO.png)
+*Leave enough room around for a human to interact with your CV*
+
+![ALTTEXT](assets/images/Margin_DONT.png)
+*Respect margins, lest you fall off the edge of the world*
+
+## Divide responsibly
+**You’ve got sections**: Education, Work Experience, maybe a Professional Summary, Skills, Languages, Personal Interests... Someone should probably stop you before you start listing middle school grades and favorite pets, but I promised not to meddle with content affairs.
+
+Even the most minimalist applicant must decide **how to separate sections**. Properly styled titles help (more on that later), but outside text I count the following three available tools: **spacing**, **dividers**, and **background shading**.
+I'm telling you now: **you can only have two, and spacing is non-negotiable**.
 ### Spacing plus one
 To borrow a design cliché: _less is more_. "Less" prevents the claustrophobia we're trying to avoid with the mandatory spacing, and it also means "less stuff to maintain". Manually adjusting a bunch of dividers every time you tweak a bullet point stops being fun extremely fast. A row of underscores just replaces that issue with an unsightly hack.
 
