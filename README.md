@@ -14,7 +14,7 @@ A practical and opinionated guide to CV typography and layout for developers, he
   - [Left-alignment](#left-align-everything)
   - [Other horizontal alignment](#same-stuff-same-x)
   - [A common objection](#but-i-can-read-my-cv-just-fine)
-- [The fear of the void](#to-fear-and-to-embrace-the-void-all-the-way-to-the-dreaded-second-page)
+- [Fear of the void](#to-fear-and-to-embrace-the-void-all-the-way-to-the-dreaded-second-page)
   - [Margins](#dont-mess-with-a-documents-margin)
   - [Separators](#divide-responsibly)
   - [Orphans and widows](#no-orphans-nor-widows)
