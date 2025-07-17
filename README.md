@@ -4,7 +4,7 @@ A practical and opinionated guide to CV typography and layout for developers, he
 Shoutout to the [FullRemote community](https://fullremote.it), where the idea for this guide took form, and to Guido Penta's [Galactic CV Guide for Developers](https://github.com/GuidoPenta/galactic-CV-guide-for-developers) for serving as general inspiration.
 
 ### Index
-- [Introduction]()
+- [Introduction](https://github.com/SimonDiff/devs-cv-typography-guidelines?tab=readme-ov-file#dear-job-hunting-developers-and-other-non-designers)
 - [The rhythm of alignment](https://github.com/SimonDiff/devs-cv-typography-guidelines?tab=readme-ov-file#jump-in-the-line-or-the-rhythm-of-alignment)
   - [Justification](https://github.com/SimonDiff/devs-cv-typography-guidelines?tab=readme-ov-file#unsolicited-justification-is-a-clear-admission)
   - [Hyphens](https://github.com/SimonDiff/devs-cv-typography-guidelines?tab=readme-ov-file#leave-hyphens-to-the-typesetters)
