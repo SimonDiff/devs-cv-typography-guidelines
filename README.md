@@ -25,9 +25,9 @@ Many of these tips are **hard rules you should follow**. While I'm not the ultim
 Some tips will fall under “just my opinions”: I'll politely welcome and smugly dismiss differing points of view. (Really just kidding: **I’m out here for constructive confrontations. Please share with me any take you have!**)
 
 ---
-# Jump in the line, or: Alignment basics
+# Jump in the line, or: The rhythm of alignment
 It’s hard to pick which principle deserves the number one spot, so I’ll start with the one that pushed me over the I-need-to-write-a-guide-about-this edge:
-## Do not justify any text. Ever.
+## Unsolicited justification is a clear admission
 Like everything else I’ll beg you to avoid, justification has its place. This one’s is in long-form print. Combined with hyphenation, it can save a bit of paper across an entire book, create tidy blocky full-width paragraphs, or draw straight lateral borders clearly signaling a columnar layout.
 You’re not writing descriptive essays for your work experiences, nor newspaper op-eds for your professional summary—and if you are, you definitely shouldn’t.
 In our case, justified alignment (especially without manual hyphenation and with large fonts) forces your editor to **wildly vary letter-spacing across lines, disrupting the natural rhythm we follow to scan text**. You don’t want to throw your recruiter off their groove in the one brief dance they’ve granted you.
@@ -63,17 +63,17 @@ This x-axis principle is good for almost everything, and that’s why you should
 This generalization of the left-alignment principle starts with an exception: **your contact info**. Those are short strings that would leave a whole lot of emptiness if stacked vertically. You definitely _can_ horizontally align them in a two-column layout, but you’re otherwise excused.
 
 ![Acceptable example of center-aligned contact info](assets/images/Contact_Center_ACCEPTABLE.png)
-*If you can stop there, your contact info could be centered*
+*If you can stop at that, your contact info could be centered*
 
 ![Better example of left-aligned contact info](assets/images/Contact_Left_DO.png)
-*You can still align everything left, if willing to play around with your layout*
+*You can still align everything to the left, if you are willing to play around with your layout*
 
 For everything else: **if it’s on the same hierarchy level, it should sit at the same distance from the left margin**.
 The one remaining troublemaker will be your **employment dates**, which I’m guessing you’ve placed on the same line as your job title or employer. Depending on your layout, they’ll often look cleaner either left-aligned as far right as they can go or properly separated using a right-aligned tab stop (or `Shift+Tab`).
 
 
 ![Positive example of right-aligned employment dates](assets/images/Date_Right_Tab_Stop_DO.png)
-*Shift+Tab will push any remaining text to the right. Dates won't be perfectly aligned, but "good enough" can be acceptable*
+*Shift+Tab will push any remaining text to the right. Dates won't be perfectly aligned, but "good enough" can be acceptable in this case*
 
 ![Negative example of in-line employment dates](assets/images/Date_DONT.png)
 *Don't differentiate dates with styling only. They will be hard to pin down*
@@ -157,7 +157,7 @@ The last resort—if you still feel like cheating while respecting the margin's 
 That might be too big a sacrifice. So **here’s your official pass to shave a bit off the bottom margin** to pull that lonely line back where it belongs. Yes, margins remain sacred, but if you've read all the way here, you've earned this.
 ## To boldly go where no one has gone before (page #2)
 You've **worked hard to squeeze your experience**, skills, and more into one tight page, because you've been told that most recruiters are Gen-Zers whose reels-fried brains would short-circuit at the sight of a page break.
-Did you really have to?
+**Did you really have to?**
 ### The case for breathing room
 First of all, TikTok is all about scrolling, so their muscle memory would be on our side.
 Secondly, **UX design is all about the severe limits of human cognition** (doomscrollers or not)—limits that are better served by a properly spaced document, especially if the tradeoff is just one measly input.
@@ -209,7 +209,7 @@ Should you highlight keywords in bold? Few do, which vexes me. Although, if I we
 It’s reasonable to assume an ATS has already scanned for relevant keywords. It’s just as likely that a recruiter will look for them, too, if only to get a sense of when and where each one applied.
 **Bold words are a skimmer's landmark**, almost serving as faux-subtitles. If a recruiter takes 15 seconds to judge a CV, bolding's immense cognitive and time savings could make all the difference. You might even get a custom rejection email!
 ### The context-specific negative
-Could such convenient and evident landing spots drive a recruiter to gist-read your CV even more gist-ly, thus failing to absorb the context in between? All we know is that they won't ever admit it.
+Could such convenient and evident landing spots drive a recruiter to gist-read your CV even more gist-ly, thus **failing to absorb the context in between?** All we know is that they won't ever admit it.
 
 /// same cv with no bolds vs few bolds
 
