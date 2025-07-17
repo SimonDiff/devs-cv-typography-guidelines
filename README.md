@@ -3,8 +3,28 @@ A practical and opinionated guide to CV typography and layout for developers, he
 
 Shoutout to the [FullRemote community](https://fullremote.it), where the idea for this guide took form, and to Guido Penta's [Galactic CV Guide for Developers](https://github.com/GuidoPenta/galactic-CV-guide-for-developers) for serving as general inspiration.
 
+### Index
+- [Introduction]()
+- [The rhythm of alignment](https://github.com/SimonDiff/devs-cv-typography-guidelines?tab=readme-ov-file#jump-in-the-line-or-the-rhythm-of-alignment)
+  - [Justification](https://github.com/SimonDiff/devs-cv-typography-guidelines?tab=readme-ov-file#unsolicited-justification-is-a-clear-admission)
+  - [Hyphens](https://github.com/SimonDiff/devs-cv-typography-guidelines?tab=readme-ov-file#leave-hyphens-to-the-typesetters)
+  - [Left-alignment](https://github.com/SimonDiff/devs-cv-typography-guidelines?tab=readme-ov-file#left-align-everything)
+  - [Other horizontal alignment](https://github.com/SimonDiff/devs-cv-typography-guidelines?tab=readme-ov-file#same-stuff-same-x)
+  - [A common objection](https://github.com/SimonDiff/devs-cv-typography-guidelines?tab=readme-ov-file#but-i-can-read-my-cv-just-fine)
+- [The fear of the void](https://github.com/SimonDiff/devs-cv-typography-guidelines?tab=readme-ov-file#to-fear-and-to-embrace-the-void-all-the-way-to-the-dreaded-second-page)
+  - [Margins](https://github.com/SimonDiff/devs-cv-typography-guidelines?tab=readme-ov-file#dont-mess-with-a-documents-margin)
+  - [Separators](https://github.com/SimonDiff/devs-cv-typography-guidelines?tab=readme-ov-file#divide-responsibly)
+  - [Orphans and widows](https://github.com/SimonDiff/devs-cv-typography-guidelines?tab=readme-ov-file#no-orphans-nor-widows)
+  - [Page #2](https://github.com/SimonDiff/devs-cv-typography-guidelines?tab=readme-ov-file#to-boldly-go-where-no-one-has-gone-before-page-2)
+- [Dangerous styling](https://github.com/SimonDiff/devs-cv-typography-guidelines?tab=readme-ov-file#size-weight-color-and-otherwise-questionable-classifiers-outside-typography)
+  - [Typefaces and fonts](https://github.com/SimonDiff/devs-cv-typography-guidelines?tab=readme-ov-file#typefaces-and-fonts)
+  - [Sizes and weights](https://github.com/SimonDiff/devs-cv-typography-guidelines?tab=readme-ov-file#on-sizes-and-weights)
+  - [Bold](https://github.com/SimonDiff/devs-cv-typography-guidelines?tab=readme-ov-file#bold)
+  - [Color](https://github.com/SimonDiff/devs-cv-typography-guidelines?tab=readme-ov-file#color)
+- [The part where you DM me](https://github.com/SimonDiff/devs-cv-typography-guidelines?tab=readme-ov-file#the-part-where-you-dm-me)
+
 ---
-Dear job-hunting developers and other non-designers,
+## Dear job-hunting developers and other non-designers,
 Unbelievable as it may sound, out of 100 CVs you submit, 2 or 3 of them slip past an ATS and land in front of a pair of real, human eyes - if only for a fraction of a minute. That's when **your carefully crafted professional profile must measure against** the outdated multimodal biological intelligence running most **HR brains**.
 And that worries me, because **I have seen many of your LaTeX creations and template customizations**. While they might have given you the necessary push over Greenhouse and Workday fences, **their lack of presentational elegance could now be your undoing**.
 
@@ -289,7 +309,7 @@ No one will tell you this (because it's another overthought), but: **manually se
 ![Screenshot of Awesome-CV's GitHub repo in dark mode, appearing as black-on-black text](assets/images/Awesome_CV_dark_mode.png)
 *BThis is how Awesome-CV official GitHub repo appears in dark-mode*
 
-## Making it pop, not explode
+### Making it pop, not explode
 You're looking to add some flavor to your CV, and after staring at all that black text for so long, it’s starting to taste stale. **Do you actually need color?**
 You're an adult, free to take any risk. Just, please:
 - **Use a contrast checker**. If you need a reason for this, consider your color privileges revoked.
@@ -312,7 +332,7 @@ You're an adult, free to take any risk. Just, please:
 ![Positive example of a CV using a single color for the last name andd section title](assets/images/Color_DO.png)
 *Let color serve the same function as bold: a rare, thus meaningful, highlighter*
 
-## Understated and sensible
+### Understated and sensible
 **For some class and subtlety**, try this: don't _really_ use color.
 Instead, **soften your white** background (I suggest erring in the direction of yellow-ish rather than gray). Optionally, you might also **tone down your black text**. Be mindful not to go full sepia.
 
