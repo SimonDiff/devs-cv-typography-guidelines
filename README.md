@@ -101,10 +101,10 @@ When text hugs the edges, readers feel the anxiety of walking alongside a cliff.
 If you’re doing LaTeX shenanigans, it’s up to you to set boundaries. Try roleplaying as a UX designer: print your document and **see if you can hold it comfortably without your thumbs covering any text**, and check if there’s **room to jot notes around the edges** with a marker.
 That’s probably what those still-printing-in-2025 recruiters are doing anyway, so you’d better accommodate them.
 
-![ALTTEXT](assets/images/Margin_DO.png)
+![Positive example of large enough margins to allow physical interaction](assets/images/Margin_DO.png)
 *Leave enough room around for a human to interact with your CV*
 
-![ALTTEXT](assets/images/Margin_DONT.png)
+![Negative example of extremely narrow margins](assets/images/Margin_DONT.png)
 *Respect margins, lest you fall off the edge of the world*
 
 ## Divide responsibly
@@ -131,97 +131,122 @@ Just remember that most **dividers recall the last century** in a non-flattering
 ![Negative example of separators usage](assets/images/Spacing_DONT.png)
 *Don't use all separation devices simultaneously*
 
+### Urban planning for your CV
+Uniform spacing is lazy spacing.
+**Visual distance communicates hierarchy and correlation**. If everything is spaced the same, nothing is grouped nor distinct.
+Think of your layout like a city map. Bullet points are suburban houses, part of the same block, lined up along narrow streets. Each work experience is a new block, separated by a wider two-way road. Sections are like districts: you'll find a four-lane highway between them.
+
+Once you’ve defined those spacings, uphold **consistency**. It'll serve as a compass to navigate your content without getting lost.
+
 ## No orphans nor widows
 ### Explaining an unfortunate metaphor
 I’m skipping witty remarks about familial deaths here.
 "Orphans" and "widows" are (disproportionately unpleasant) typographic concepts referring to lonely words, breaking the flow of their otherwise cohesive body of text. More specifically:
-- An orphan is the last word of a sentence stranded alone on a new line.
-- A widow is the last line of a paragraph left dangling at the top of a new page or column.
-Both are bad. White space should signal section breaks, and that's what orphans and widows look like. Additionally, when a reader's eyes hop to a new line in the middle of a sentence, their momentum expects a worthy continuation, not an abrupt end. They'll stumble reading it and it won't feel great.
+- An **orphan** is the last word of a sentence stranded alone on a new line.
+- A **widow** is the last line of a paragraph left dangling at the top of a new page or column.
+**Both are bad**. White space should signal section breaks, and that's what orphans and widows look like. Additionally, when a reader's eyes hop to a new line in the middle of a sentence, their momentum expects a worthy continuation, not an abrupt end. They'll stumble reading it and it won't feel great.
 ### How to fix it
 Without going through all seven stages of grief, I'll reassure you: orphans and widows happen, but they're fixable.
 
-Orphans are easier. Find a shorter synonym or abbreviation for a word in the sentence, and the straggler should pop back up. If you've already reached maximum possible conciseness, you might cheat a bit by shaving just a few pixels off the lateral margins until that single orphan shifts back, now dangling just a hair over the ideal limits. This is extremely dangerous, as any number of lines in the document could be affected, creating more orphans than it fixes.
-More safely, you can just embrace that additional line. In this case, expand that sentence by two or three words at least. Give that single word a bit of company. Revel in freedom of expression, unshackled by the harsh telegrammatic bullet point limitations of modern CVs.
-The last resort—if you still feel like cheating while respecting the margin's sanctity—is the line break (shift+enter) before the orphan. You now have a two-word line, and since your text isn't justified, no one will notice this premature break.
+**Orphans** are easier. Find a **shorter synonym or abbreviation for a word** in the sentence, and the straggler should pop back up.
+If you've already reached maximum possible conciseness, you might **cheat a bit by shaving just a few pixels off the lateral margins** until that single orphan shifts back, now dangling just a hair over the ideal limits. This is **extremely dangerous**, as any number of lines in the document could be affected, creating more orphans than it fixes.
+More safely, you can **just embrace that additional line**. In this case, expand that sentence by two or three words at least. Give that single word a bit of company. Revel in freedom of expression, unshackled by the harsh telegrammatic bullet point limitations of modern CVs.
+The last resort—if you still feel like cheating while respecting the margin's sanctity—is **adding a line break (shift+enter) before the orphan**. You now have a two-word line, and since your text isn't justified, no one will notice this premature break.
 
-Widows are trickier (this nomenclature only gets more awkward). CVs are usually so tightly packed and carefully worded that you might need to drop an entire bullet point to fix one.
-That might be too big a sacrifice. So here’s your official pass to shave a bit off the bottom margin to pull that lonely line back where it belongs. Yes, margins remain sacred, but if you've read all the way here, you've earned this.
+**Widows** are trickier (this nomenclature only gets more awkward). CVs are usually so tightly packed and carefully worded that **you might need to drop an entire bullet point** to fix one.
+That might be too big a sacrifice. So **here’s your official pass to shave a bit off the bottom margin** to pull that lonely line back where it belongs. Yes, margins remain sacred, but if you've read all the way here, you've earned this.
 ## To boldly go where no one has gone before (page #2)
-You've worked hard to cram your experience, skills, and other info onto one tight page, because you've been told that most recruiters are Gen-Zers whose reels-fried brains would short-circuit at the sight of a page break. And now here I am, suggesting changes that will either have you yelling *SHORTER!* at ChatGPT for another week or have your résumé overflow onto page two.
+You've **worked hard to squeeze your experience**, skills, and more into one tight page, because you've been told that most recruiters are Gen-Zers whose reels-fried brains would short-circuit at the sight of a page break.
+Did you really have to?
 ### The case for breathing room
-First of all, TikTok is all about scrolling. Should these tired stereotypes about recruiters be true... their muscle memory is already trained to move on to the next page.
-Secondly, UX design is all about the severe limits of human cognition (doomscrollers or not)—limits that are better served by a properly spaced document, even at the cost of one cumbersome input.
+First of all, TikTok is all about scrolling, so their muscle memory would be on our side.
+Secondly, **UX design is all about the severe limits of human cognition** (doomscrollers or not)—limits that are better served by a properly spaced document, especially if the tradeoff is just one measly input.
 _Brevity is the soul of wit_, as an English guy once said (and what does that say about me writing this wall of text?). But brevity is about content, not strictly form. I could fit *The Philosopher's Stone* on a flyer, but you wouldn't enjoy reading it.
 
-Clear sections, skimmable dates, and skill lists that don’t require eye gymnastics do a far better job than a one-size-fits-all layout at making your CV accessible to overworked, distracted, much too human recruiters.
-
-At the very least, it won't kill the vibe.
+Clear sections, skimmable dates, and skill lists that don’t require eye gymnastics do a far better job than a one-size-fits-all layout at **making your CV accessible to overworked, distracted, much too human recruiters**.
 
 ---
-# Size, weight, color, and otherwise alarming classifiers outside typography
+# Size, weight, color, and otherwise questionable classifiers outside typography
 ### Allow me to nerd out
 A premise (due or not, I never miss a chance to get into this tirade): _font_ does not mean what you think it means. You're thinking of _typeface_.
-In front-end terms: a typeface is a font-family; a font is a particular permutation of properties (size, weight, and style) for that family. Typeface: Inter. Font: Inter, bold, 12px.
+In front-end terms: a typeface is a font-family; **a font is a particular permutation of properties** (size, weight, and style) for that family. Typeface: Inter. Font: Inter, bold, 12px.
 Yes, I am fun at parties.
 
-The following properties can be combined to concoct distinct styles. You don't need more than three or four styles in your CV, and even that might be a generous amount.
+The following properties can be combined to concoct distinct styles. **You don't need more than three or four styles in your CV**, and even that might be a generous amount.
 ## Typefaces and fonts
-### Strict borders on your playground
-Most applicants have to accept a hard cap of just **one typeface**.
+### Strict limits on your playground
+Most applicants have to accept a hard cap of **just one typeface**.
 Bold adventurers might decide that their name and section titles are worthy of a display typeface. Alternatively, if you're equipped with taste, one for section titles and one for the rest. That's really it.
 Use a third font-family in your CV, and you will be referred to a physician.
 
-_One typeface_ doesn't mean _one font_, but we'd do well to go easy here too. Modern tools offer a dangerously vast choice of weights: you'll do well to limit yourself to just a couple—something around `Regular` and `Bold`.
+/// family pairing examples
+
+_One typeface_ doesn't mean _one font_, but we'd do well to **go easy** here too. Modern tools offer a dangerously vast choice of weights: you'll do well to **limit yourself to just a couple**—something around `Regular` and `Bold`.
 ### The best possible typeface for your CV is...
 Sorry, I baited you. Sure, I think some typefaces are _objectively_ bad (both universally and for our context), but that's still my opinion dressed up as fact. I can dig up the 2,000 words I wrote about Comic Sans being better than Helvetica, if you want to test this claim.
 
-That's the thing with typefaces: they surely create a vibe, but that vibe resonates differently depending on taste, exposure, and all sorts of personal baggage.
-Sans-serifs generally feel clean and modern; serifs often classy and traditional. Then again, while you might appreciate Montserrat's simplicity and balance, I'd rather throw myself out a window if I see it again. You might find a Times New Roman mono-font résumé mature and confident; I might wonder if I've been handed a subpoena.
+That's the thing with typefaces: **they surely create a vibe, but that vibe resonates differently** depending on taste, exposure, and all sorts of personal baggage.
+Sans-serifs generally feel clean and modern; serifs often classy and traditional. Then again, while you might appreciate *Montserrat*'s simplicity and balance, I'd rather throw myself out a window if I see it again. You might find a *Times New Roman* mono-font résumé mature and confident; I might wonder if I've been handed a subpoena.
 
-If you need a hard rule, here's the only one I can confidently give: don't use Wingdings.
+/// same cv with different vibes
+
+Taste is irremediably subjective, and unfortunately you must not please your own, but that of a stranger. If you need a hard rule, here's the only one I can confidently give: **don't use Wingdings**.
 ## On sizes and weights
 ### No messing around
-Leave that default size be. Maybe drop it by a point or two, depending on the typeface's base appearance and your content density.
-Up next are job titles or company names—your choice, as long as this hierarchy is reflected by a bigger size and/or a heavier weight. Just avoid dramatic deltas.
-Finally, section titles. With good enough spacing, you don't even need these to be much bigger than the job titles, if at all. With *stellar* spacing and structure, groupings would be so self-evident that section titles could even be considered redundant.
+**Leave that default size be**. Maybe drop it by a point or two, depending on the typeface's base appearance and your content density.
+Up next are job titles or company names—your choice, as long as this **hierarchy is reflected by a bigger size and/or a heavier weight**. Just avoid dramatic deltas.
+Finally, section titles. With good enough spacing, you don't even need these to be much bigger than the job titles, if at all. With *stellar* spacing and structure, groupings would be so self-evident that section titles could even be redundant.
 
-Above all, consistency. The style for company names under your Work Experience should match that of academic institutions under Education, as they are hierarchically the same.
+/// image of properly styled sections
+
+Above all, **consistency**. The style for company names under your Work Experience should match that of academic institutions under Education, as they are hierarchically the same.
+
+/// image of different styles for similar sections
 ## Bold
 ### To bold or not to bold...
-Should you highlight keywords in bold? Few do, which vexes me. Although, if I were to indulge in overthinking (which I love), I'd concede it's a double-edged sword.
+Should you highlight keywords in bold? Few do, which vexes me. Although, if I were to indulge in overthinking (which I love), I'd concede it's a **double-edged sword**.
 ### The universal positives
 It’s reasonable to assume an ATS has already scanned for relevant keywords. It’s just as likely that a recruiter will look for them, too, if only to get a sense of when and where each one applied.
-Bold words are a skimmer's landmark, almost serving as faux-subtitles. If a recruiter takes 15 seconds to judge a CV, bolding's immense cognitive and time savings could make all the difference. You might even get a custom rejection email!
+**Bold words are a skimmer's landmark**, almost serving as faux-subtitles. If a recruiter takes 15 seconds to judge a CV, bolding's immense cognitive and time savings could make all the difference. You might even get a custom rejection email!
 ### The context-specific negative
 Could such convenient and evident landing spots drive a recruiter to gist-read your CV even more gist-ly, thus failing to absorb the context in between? All we know is that they won't ever admit it.
 
+/// same cv with no bolds vs few bolds
+
 What's certain is that overthinking doesn't really help after a certain point. So just remember this: **When everything is bold, nothing is.**
 To give some real oomph to those bold words, pick just a couple **per experience** (not per line!), if not fewer. They will surely leave an impression.
+
+/// same CV with rare bolds vs too many bolds
 ## Color
 ### The overthinker special
-No one will tell you this (because it's another overthought), but: set your page's background to white manually, especially in LaTeX. It may export transparent, and while any viewer will default to a white render, the day your CV gets embedded in a dark-themed page will be its last.
+No one will tell you this (because it's another overthought), but: **manually set your page's background to white**, especially in LaTeX. It may export transparent, and while any viewer will default to a white render, the day your CV gets embedded in a dark-themed page will be its last.
+
+/// screenshot of awesome cv in git
 ## Making it pop, not explode
-You're looking to add some flavor to your CV, and after staring at all that black text for so long, it’s starting to taste stale. Do you need some color?
+You're looking to add some flavor to your CV, and after staring at all that black text for so long, it’s starting to taste stale. **Do you actually need color?**
 You're an adult, free to take any risk. Just, please:
-- Use a contrast checker. If you need a reason for this, consider your color privileges revoked.
-- Get a friend's sanity check. Some colors might contrast enough with your white background, while also offending common decency.
-- One (1) color besides black.Again, it's about sustainable simplicity.
-- Use it sparingly. Maybe your name (although I'd suggest only one of your first and last name). Maybe your section titles and/or job titles. Exercise absolute restraint after this.
+- **Use a contrast checker**. If you need a reason for this, consider your color privileges revoked.
+- **Get a friend's sanity check**. Some colors might contrast enough with your white background, while also offending common decency.
+- **One (1) color** besides black. Again, it's about sustainable simplicity.
+- Use it **sparingly**. Maybe your name (although I'd suggest only one of your first and last name). Maybe your section titles and/or job titles. Exercise absolute restraint after this.
+
+/// images of contrast fail, decency fail (neon), too many colors, too much color, only last name
 ## Understated and sensible
-For some class and subtlety, try this: don't _really_ use color.
-Instead, soften your white background (I suggest erring in the direction of yellow-ish rather than gray). Optionally, you might also tone down your black text. Be mindful not to go full sepia.
-You now have a CV that is slightly less harsh on the recruiter's eyes than a standard #00 on #FF. They may not explicitly notice, but their eyes will sigh in relief when opening your file.
+**For some class and subtlety**, try this: don't _really_ use color.
+Instead, **soften your white** background (I suggest erring in the direction of yellow-ish rather than gray). Optionally, you might also **tone down your black text**. Be mindful not to go full sepia.
+You now have a CV that is **slightly less harsh** on the recruiter's eyes than a standard #00 on #FF. They may not explicitly notice, but their eyes will sigh in relief when opening your file.
+
+/// toned down cv vs B&W vs sepia
 
 If it were up to me, I'd make all CVs dark-themed. Hell, I'd make them landscape. But rumor has it that they still print these things. If I ever manage to get a recruiter's reply, I'll let you know if that's true.
 
 ---
 # The part where you DM me
-I’ve already spilled 3,000 words on this, and I still have **too much** left to say. Letter spacing? Line height? All caps sins? Ideal size-to-leading ratios?
-I could go on. Honestly, if I started covering every detail I think deserves attention, I’d end up writing a book. I'm that detail-oriented and knowledgeable. (Wink wink, recruiters. Hit me up).
+I’ve already spilled 3,000 words on this, and I still have too much left to say. **Letter spacing? Line height? All caps sins? Ideal size-to-leading ratios?**
+I could go on. Honestly, if I started covering every detail I think deserves attention, I’d end up writing a book. **I'm that detail-oriented and knowledgeable**. (😉 *wink wink, recruiters. Hit me up*).
 
-While I clearly enjoy typing into the void, I do crave the occasional **human interaction**.  
-So let’s do this.
+While I clearly enjoy typing into the void, I do crave the occasional human interaction.  
+**So let’s do this.**
 
 **Job seekers**: If you need a quick look at your CV, let’s talk. I’ll point out the quick edits that’ll make it shine, and maybe we’ll even have a laugh. I promise I can keep it under 5 minutes if we’re chatting live (no such guarantees for written replies).
 
