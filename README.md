@@ -83,8 +83,6 @@ I know what you're thinking: no harm done in centering your name—and your cont
 ![Positive example of left-aligned text](assets/images/Left_Align_DO.png)
 *Left-alignment is the natural course for western readers*
 
-I'm sure you’re having none of these issues while reading your own centered content because you know it intimately, you’ve written it, you’ve read it 100 times. Here’s a shocker: you’re not really reading. Your brain is just filling in the gaps while your eyes bounce around (which is why proofreaders and writers are separate entities).
-
 This x-axis principle is good for almost everything, and that’s why you should:
 ## Same stuff, same x
 This generalization of the left-alignment principle starts with an exception: **your contact info**. Those are short strings that would leave a whole lot of emptiness if stacked vertically. You definitely _can_ horizontally align them in a two-column layout, but you’re otherwise excused.
