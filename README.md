@@ -1,7 +1,10 @@
 # Your CV looks like sh*t - Easy fixes for typographic redemption
 A practical and opinionated guide to CV typography and layout for developers, helping your resume survive human eyes.
 
-Shoutout to the [FullRemote community](https://fullremote.it), where the idea for this guide took form, and to Guido Penta's [Galactic CV Guide for Developers](https://github.com/GuidoPenta/galactic-CV-guide-for-developers) for serving as general inspiration.
+![Article header](assets/images/Header_v2.png)
+
+> [!NOTE]
+> Shoutout to the [FullRemote community](https://fullremote.it), where the idea for this guide took form, and to Guido Penta's [Galactic CV Guide for Developers](https://github.com/GuidoPenta/galactic-CV-guide-for-developers) for serving as general inspiration.
 
 ### Index
 - [Introduction](#dear-job-hunting-developers-and-other-non-designers)
