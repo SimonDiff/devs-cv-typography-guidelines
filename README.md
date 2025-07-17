@@ -318,7 +318,7 @@ To give some real oomph to those bold words, pick just a couple **per experience
 No one will tell you this (because it's another overthought), but: **manually set your page's background to white**, especially in LaTeX. It may export transparent, and while any viewer will default to a white render, the day your CV gets embedded in a dark-themed page will be its last.
 
 ![Screenshot of Awesome-CV's GitHub repo in dark mode, appearing as black-on-black text](assets/images/Awesome_CV_dark_mode.png)
-*BThis is how Awesome-CV official GitHub repo appears in dark-mode*
+*This is how Awesome-CV official GitHub repo appears in dark-mode*
 
 ### Making it pop, not explode
 You're looking to add some flavor to your CV, and after staring at all that black text for so long, it’s starting to taste stale. **Do you actually need color?**
