@@ -172,6 +172,13 @@ I’m skipping witty remarks about familial deaths here.
 "Orphans" and "widows" are (disproportionately unpleasant) typographic concepts referring to lonely words, breaking the flow of their otherwise cohesive body of text. More specifically:
 - An **orphan** is the last word of a sentence stranded alone on a new line.
 - A **widow** is the last line of a paragraph left dangling at the top of a new page or column.
+
+![Example of typographic orphans](assets/images/Orphan.png)
+*An orphan is the last word of a sentence stranded alone on a new line*
+
+![Example of a typographic widow](assets/images/Widow.png)
+*A widow is the last line of a paragraph left dangling at the top of a new page or column*
+
 **Both are bad**. White space should signal section breaks, and that's what orphans and widows look like. Additionally, when a reader's eyes hop to a new line in the middle of a sentence, their momentum expects a worthy continuation, not an abrupt end. They'll stumble reading it and it won't feel great.
 ### How to fix it
 Without going through all seven stages of grief, I'll reassure you: orphans and widows happen, but they're fixable.
