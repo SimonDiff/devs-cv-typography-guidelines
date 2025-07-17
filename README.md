@@ -163,6 +163,9 @@ Think of your layout like a city map. Bullet points are suburban houses, part of
 
 Once you’ve defined those spacings, uphold **consistency**. It'll serve as a compass to navigate your content without getting lost.
 
+![Positive example of consistent spacing](assets/images/Spacing_DO.png)
+*You can let spacing alone do your infrastructure heavy lifting*
+
 ## No orphans nor widows
 ### Explaining an unfortunate metaphor
 I’m skipping witty remarks about familial deaths here.
