@@ -1,6 +1,8 @@
 # Your CV looks like sh*t - Easy fixes for typographic redemption
 A practical and opinionated guide to CV typography and layout for developers, helping your resume survive human eyes.
 
+Also as an **[article on LinkedIn](https://www.linkedin.com/pulse/your-cv-looks-like-sht-easy-fixes-typographic-simon-di-fresco-u9nie/)**.
+
 ![Article header](assets/images/Header_v2.png)
 
 > [!NOTE]
