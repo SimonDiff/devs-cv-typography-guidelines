@@ -237,7 +237,7 @@ Yes, I am fun at parties.
 ![Example of Inter fonts](assets/images/Fonts.png)
 *The many fonts of the Inter typeface*
 
-![Example of various typefaces](assets/images/Fonts.png)
+![Example of various typefaces](assets/images/Typefaces.png)
 *More or less recommendable typefaces. Can you guess them all?*
 
 The following properties can be combined to concoct distinct styles. **You don't need more than three or four styles in your CV**, and even that might be a generous amount.
